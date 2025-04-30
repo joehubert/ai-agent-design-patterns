@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+.env/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+
+# Python-specific files
+*.pyo
+*.pyd
+*.pdb
+
+# Test coverage and reports
+.coverage
+*.cover
+*.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Docker-related files
+*.env
+*.env.*
+docker-compose.override.yml
+
+# Local configuration files
+*.local
+*.config
+
+# Language-specific files
+langgraph.json
+*.pckl
