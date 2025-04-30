@@ -5,7 +5,7 @@
 * This sample code supports the related project on [Agentic AI Design Patterns](../../../../../wiki). Details for the RAG pattern can be found [here](../../../../../wiki/Retrieval‐Augmented-Generation-(RAG)).
 * This simple program demonstrates using LangGraph to decide if a RAG step is necessary to answer a user's query.
 * The RAG content contains information on fictional school events stored in ./docs/school_events.md
-* See [this doc](../../../README) for more information on required tools and installations.
+* See [this doc](../../../README.md) for more information on required tools and installations.
 
 ## Setup and Run
 
