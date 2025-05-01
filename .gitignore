@@ -55,4 +55,5 @@ docker-compose.override.yml
 
 # Language-specific files
 langgraph.json
+.langgraph_api/
 *.pckl

@@ -1,0 +1,5 @@
+langgraph>=0.0.19
+langchain>=0.0.325
+langchain-community>=0.0.21
+ollama  # Optional: if you're using the Ollama backend directly, may be required
+langgraph-cli[inmem]

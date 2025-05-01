@@ -10,12 +10,12 @@
 ## Setup and Run
 
 Follow these steps to set up and run the graph program:
-* Install Docker Desktop and run it
-* Install Ollama and run it
+* Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) and run it
+* Install [Ollama](https://ollama.com/) and run it
 ```
 ollama serve
 ```
-* Install LangGraph Studio
+* Install [LangGraph Studio](https://studio.langchain.com/)
 * Move to the ./src directory, create a virutal env and install the required libraries:
 ```
 # Full path: /ai-agent-design-patterns/src/core-processing/retrieval-augmented-generation/simple-langgraph/src
